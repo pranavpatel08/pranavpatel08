@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pranav Patel, from Goa-India 🏖️
 - 🎓 I completed my Bachelor of Technology - IT from MUJ in 2022 🏛️
-- 👨🏻‍💻 I am currently a SD @ Oracle Cerner 🤖
 - 🌱 Driven by passion in programming and problem-solving 👀
+- 👨🏻‍💻 I am currently a SD @ Oracle Cerner 🤖
+- 🙇🏻‍♂️ Apologies for my limited availability to contribute lately🤕
 - 📨 Reach out to me here - [Linkedin](https://www.linkedin.com/in/pranavjpatel8/) || [Instagram](https://www.instagram.com/pra.nnavv/) 📬
 
 <!---
