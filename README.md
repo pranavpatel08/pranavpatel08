@@ -160,19 +160,19 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
         </a>
         <br>Node.js
       </td>
       <td align="center" style="border: none;">
-      <a href="" style="color: white;">
+      <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" style="color: white;">
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" width="50" height="50" alt=".NET"/>
       </a>
       <br>.NET
       </td> 
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://expressjs.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
         </a>
         <br>Express
@@ -247,25 +247,25 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://docs.docker.com/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
         </a>
         <br>Docker
       </td>
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://tomcat.apache.org/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="50" height="50"/>
         </a>
         <br>Apache Tomcat
       </td>
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://rancher.com/" style="color: white;">
           <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="50" height="50"/>
         </a>
         <br>Rancher
       </td>
       <td align="center" style="border: none;">
-        <a href="" style="color: white;">
+        <a href="https://git-scm.com/doc" style="color: white;">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
         </a>
         <br>Git
