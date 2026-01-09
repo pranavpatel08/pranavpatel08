@@ -59,46 +59,46 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Languages</th>
+      <th colspan="6" align="center" style="color: white;">Languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://cplusplus.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/>
+        <a href="https://docs.python.org/3/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+        </a>
+        <br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://isocpp.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50"/>
         </a>
         <br>C++
       </td>
       <td align="center" style="border: none;">
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50"/>
         </a>
         <br>C#
       </td>
       <td align="center" style="border: none;">
-        <a href="https://devdocs.io/c/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="50" height="50"/>
+        <a href="https://docs.oracle.com/en/java/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
         </a>
-        <br>C
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://docs.python.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>Python
+        <br>Java
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.java.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="50" height="50" alt="Java"/>
+        <a href="https://dev.mysql.com/doc/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="50" height="50"/>
         </a>
-        <br>Java
+        <br>SQL
       </td>
     </tr>
   </tbody>
@@ -110,40 +110,40 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
+      <th colspan="5" align="center" style="color: white;">Frontend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://react.dev/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        <a href="https://vuejs.org/guide/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/>
         </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
+        <br>Vue.js
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
         </a>
-        <br>HTML
+        <br>HTML5
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
         </a>
-        <br>CSS
+        <br>CSS3
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://getbootstrap.com/docs/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50"/>
+        </a>
+        <br>Bootstrap
       </td>
     </tr>
   </tbody>
@@ -154,26 +154,38 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
+      <th colspan="6" align="center" style="color: white;">Backend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+        <a href="https://fastapi.tiangolo.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
+        </a>
+        <br>FastAPI
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://flask.palletsprojects.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
+        </a>
+        <br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://learn.microsoft.com/en-us/dotnet/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="50" height="50"/>
+        </a>
+        <br>.NET
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://nodejs.org/docs/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
         </a>
         <br>Node.js
       </td>
       <td align="center" style="border: none;">
-      <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" style="color: white;">
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" width="50" height="50" alt=".NET"/>
-      </a>
-      <br>.NET
-      </td> 
-      <td align="center" style="border: none;">
         <a href="https://expressjs.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/>
         </a>
         <br>Express
       </td>
@@ -182,33 +194,44 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 </table>
 </div>
 
-
-<h3 align="center">Databases & Data Management</h3>
+<h3 align="center">Databases</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Databases</th>
+      <th colspan="5" align="center" style="color: white;">Databases</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.mysql.com/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+        <a href="https://www.postgresql.org/docs/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
         </a>
-        <br>MySQL
+        <br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.mongodb.com/" style="color: white;">
+        <a href="https://www.mongodb.com/docs/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
         </a>
         <br>MongoDB
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.oracle.com/cloud/" style="color: white;">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+        <a href="https://dev.mysql.com/doc/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://redis.io/docs/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
+        </a>
+        <br>Redis
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.sqlite.org/docs.html" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50"/>
         </a>
         <br>SQLite
       </td>
@@ -217,31 +240,39 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 </table>
 </div>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
+<h3 align="center">Cloud & Infrastructure</h3>
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+      <th colspan="2" align="center" style="color: white;">Cloud Platforms</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.oracle.com/cloud/" style="color: white;">
+        <a href="https://docs.aws.amazon.com/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
+        </a>
+        <br>AWS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://docs.oracle.com/en-us/iaas/Content/home.htm" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="OCI" width="80" height="50"/>
         </a>
-        <br>Oracle Cloud Infrastructure
+        <br>Oracle Cloud (OCI)
       </td>
     </tr>
   </tbody>
 </table>
 </div>
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">DevOps & CI/CD</th>
+      <th colspan="6" align="center" style="color: white;">DevOps & CI/CD</th>
     </tr>
   </thead>
   <tbody>
@@ -253,22 +284,34 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
         <br>Docker
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tomcat.apache.org/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="50" height="50"/>
+        <a href="https://kubernetes.io/docs/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
         </a>
-        <br>Apache Tomcat
+        <br>Kubernetes
       </td>
       <td align="center" style="border: none;">
-        <a href="https://rancher.com/" style="color: white;">
-          <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="50" height="50"/>
+        <a href="https://www.jenkins.io/doc/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50"/>
         </a>
-        <br>Rancher
+        <br>Jenkins
       </td>
       <td align="center" style="border: none;">
         <a href="https://git-scm.com/doc" style="color: white;">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
         </a>
         <br>Git
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.kernel.org/doc/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tomcat.apache.org/tomcat-10.1-doc/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tomcat.svg" alt="Apache Tomcat" width="50" height="50"/>
+        </a>
+        <br>Tomcat
       </td>
     </tr>
   </tbody>
@@ -276,82 +319,109 @@ Driven by a passion for AI and software engineering, I'm a skilled full-stack de
 </div>
 
 <h3 align="center">AI/ML & Data Science</h3>
+
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
+      <th colspan="4" align="center" style="color: white;">Deep Learning Frameworks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://docs.python.org/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
+        <a href="https://pytorch.org/docs/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
         </a>
-        <br>Python
+        <br>PyTorch
       </td>
       <td align="center" style="border: none;">
-        <a href="https://numpy.org/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
+        <a href="https://www.tensorflow.org/api_docs" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
         </a>
-        <br>NumPy
+        <br>TensorFlow
       </td>
       <td align="center" style="border: none;">
-        <a href="https://pandas.pydata.org/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="80" height="50"/>
+        <a href="https://huggingface.co/docs/transformers" style="color: white;">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
+        </a>
+        <br>Transformers
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://opencv.org/documentation/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
+        </a>
+        <br>OpenCV
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">ML Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://scikit-learn.org/stable/documentation.html" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="50" height="50"/>
+        </a>
+        <br>scikit-learn
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://xgboost.readthedocs.io/" style="color: white;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="70" height="50"/>
+        </a>
+        <br>XGBoost
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://pandas.pydata.org/docs/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="50" height="50"/>
         </a>
         <br>Pandas
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.tensorflow.org/" style="color: white;">
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="80" height="70" />
+        <a href="https://numpy.org/doc/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
         </a>
-        <br>TensorFlow
+        <br>NumPy
       </td>
     </tr>
   </tbody>
- </table>
+</table>
 </div>
 
 <div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+      <th colspan="3" align="center" style="color: white;">LLM & Agents</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.perplexity.ai/" style="color: white;">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.svg" width="80" height="50" alt="Perplexity"/>
+        <a href="https://python.langchain.com/docs/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="LangChain" width="50" height="50"/>
         </a>
-        <br>Perplexity
-      </td>
-       <td align="center" style="border: none;">
-        <a href="https://claude.ai/" style="color: white;">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
-        </a>
-        <br>Claude (Anthropic)
+        <br>LangChain
       </td>
       <td align="center" style="border: none;">
-        <a href="https://chat.openai.com/chat" style="color: white;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
+        <a href="https://huggingface.co/docs/peft" style="color: white;">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="LoRA/PEFT" width="50" height="50"/>
         </a>
-        <br>ChatGPT
+        <br>LoRA/PEFT
       </td>
       <td align="center" style="border: none;">
-        <a href="https://gemini.google.com" style="color: white;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="80" height="50" alt="Google Gemini"/>
+        <a href="https://docs.ragie.ai/" style="color: white;">
+          <img src="https://drive.google.com/uc?export=view&id=1F2eILAGDlC7AthmDzGxuuGba9hs1ES8s" alt="RAG" width="50" height="50"/>
         </a>
-        <br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://huggingface.co/models" style="color: white;">
-          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
-        </a>
-        <br>Hugging Face
+        <br>RAG Pipelines
       </td>
     </tr>
   </tbody>
