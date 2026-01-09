@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=1000&color=32BE4F&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Engineer;Web+Developer;Software+Engineer;Cloud+Developer;Teaching+Assistant;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=1000&color=32BE4F&center=true&vCenter=true&width=435&lines=Software+Engineer;ML+Researcher;Full-Stack+Developer;Graduate+Research+Assistant;Published+Researcher+%40+Springer;Building+Systems+that+Scale;Graduate+Teaching+Assistant" alt="Typing SVG" />
 
 <div align="center">
 <table>
@@ -37,14 +37,21 @@
 
 <h2 align="center">A Bit About Me 🤖</h2>
 
-Driven by a passion for AI and software engineering, I'm a skilled full-stack developer with a strong foundation in machine learning. My experience at Oracle Health and Northeastern University has enabled me to build scalable applications, optimize systems, and advance AI-driven solutions. I'm proficient in Python, Java, C#/C++, and cloud infrastructure, and I'm eager to contribute to innovative projects that make a positive impact.
+MS in Computer Science @ Northeastern (4.0 GPA) | Former Software Engineer @ Oracle (2+ years)
+
+I build ML systems that scale ~ from research prototypes to production applications. At Oracle, I shipped healthcare software serving over a million devices. Now, as a Graduate Research Assistant, I develop ML pipelines processing noisy real-world data with sub-50ms inference; and exploring generative models (VAEs, GANs) to tackle data scarcity challenges. Published in Springer. Mentoring 150+ students as a Teaching Assistant of Machine Learning & Deep Learning courses.
+
+Core: Python, PyTorch, C++, AWS | Focus: Applied ML, Generative AI, Scalable Systems
 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavpatel08&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <!-- These never break because they're GitHub-native -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavpatel08&theme=github_dark" alt="Profile Details" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpatel08&hide=html&hide_border=true&layout=compact&langs_count=8&theme=gotham" alt="Top Languages">  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavpatel08&theme=github_dark" alt="Repos per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavpatel08&theme=github_dark" alt="Most Commit Language" />
 
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavpatel08&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" />
